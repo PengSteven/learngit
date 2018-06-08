@@ -3,5 +3,7 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Creating a new branch is quick and simple.hell
 goodbye
+
